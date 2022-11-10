@@ -1,0 +1,88 @@
+body{
+    font-family: sans-serif;
+}
+h5{
+    height: 10px;
+}
+.pin{
+    width: 36px;
+    height: 35px;
+    padding-left: 33px;
+    padding-top: 7px;
+}
+.di{
+    padding-left: 550px;
+    padding-top: 65px;
+}
+.for{
+    width: 425px;
+    padding-left: 40px;
+    padding-top: 25px;
+    border-style: solid;
+    border-color: #ebe4e4;
+    border-width: 1px;
+    border-radius: 25px;
+}
+.inp{
+    border-style: solid;
+    border-color: #ebe4e4;
+    border-width: 1px;
+    border-radius: 5px;
+    height: 40px;
+    width: 370px;
+    padding-top: 5px;
+}
+.btn{
+    height: 50px;
+    width: 370px;
+    border-radius: 25px;
+    border:none;
+    background-color: #059862;
+    font-size: medium;
+    color: white;
+    cursor: pointer;
+}.btn:hover{background-color:  #00802b;}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: small;
+}a:hover{color: #059862;}
+.su{
+    color: #059862;
+    font-weight: bolder;
+}
+.tx{
+    font-weight: 600;
+    font-size: small;
+}
+footer{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    padding-bottom: 15px;
+    padding-left: 550px;
+    cursor: pointer;
+  }
+  footer *{
+    color: grey;
+  }
+  footer > *:hover{
+    color: #059862;
+  }
+  .hel{
+    float: right;
+  }
+  .he{padding-top: 10px;}
+  .by{
+        height: 45px;
+        width: 110px;
+        border-radius: 25px;
+        border:none;
+        background-color: #059862;
+        font-size: medium;
+        color: white;
+        cursor: pointer;
+    }
+    .by:hover{background-color:  #00802b;}
+  
